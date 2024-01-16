@@ -1,5 +1,5 @@
  Hi, I’m @Sajghaa
-Author: Sajghaa sajghaa@gmail.com>
+Author: Sajghaa sajghaa@gmail.com
 Date: [15/11/2023]
 
 feat(frontend): Implement homepage redesign
