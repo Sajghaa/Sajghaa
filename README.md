@@ -1,14 +1,14 @@
-I'm Sajghaa  Full Stack Developer & Chief Debugging Officer
+# I'm Sajghaa  Full Stack Developer & Chief Debugging Officer
 
-I don’t just write code—I battle bugs, tame APIs, and negotiate with CSS like a tech gladiator. My apps? Faster than your WiFi, smoother than your last relationship, and (probably) not crashing… yet.
+I don’t just write code—I battle bugs, tame APIs, and negotiate with CSS like a tech gladiator.<br> My apps? Faster than your WiFi, smoother than your last relationship, and (probably) not crashing… yet.
 
-🛠️ My Superpowers:
+## My Superpowers:<br>
  . Frontend Sorcery – React, Next.js, Tailwind (I make pixels obey my will).
  . Backend Dark Arts – Node.js, Express (where the magic happens in the shadows).
  . Mobile Wizardry – React Native (because everything needs an app now).
  . Auth Acrobatics – Clerk, Firebase (logins so smooth, they feel illegal).
 
-🚨 Fun Facts (a.k.a Developer Struggles):
+## Fun Facts (a.k.a Developer Struggles):<br>
  . My debugging skills are stronger than my WiFi signal.
  . I talk to AI more than actual humans.
  . Stack Overflow is my spiritual guide (my ancestors are proud).
