@@ -1,4 +1,4 @@
-# I'm Sajghaa — Full Stack Developer & Chief Debugging Officer  
+# I'm Serge — Full Stack Developer & Chief Debugging Officer  
 
 I don’t just write code — I **battle bugs, tame APIs, and negotiate with CSS** like a tech gladiator. <br> 
 My apps?  Faster than your WiFi, smoother than your last relationship, and (probably) not crashing… yet.  
