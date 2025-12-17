@@ -1,7 +1,10 @@
-# I'm Serge — Full Stack Developer & Chief Debugging Officer  
+# I'm Serge
 
-I don’t just write code — I **battle bugs, tame APIs, and negotiate with CSS** like a tech gladiator. <br> 
-My apps?  Faster than your WiFi, smoother than your last relationship, and (probably) not crashing… yet.  
+In the beginning, there was **disorder**. <br> 
+And I was called to impose **structure**.<br><br>
+I do not code for **praise**.<br>
+I do not build for **noise**.<br>
+I execute with purpose, and I leavee system **standing**.
 
 
 ## My Superpowers  
