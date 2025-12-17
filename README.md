@@ -1,80 +1,92 @@
-# Serge
+# Shema Serge
 
-In the beginning, there was disorder.  
-And I was called to impose structure.
-
-I do not code for praise.  
-I do not build for noise.  
-I execute with purpose, and I leave systems standing.
-
-Where others rush, I wait.  
-Where others guess, I know.  
-Where others speak, I deliver.
+> *"And the earth was formless and void, and darkness was over the surface of the deep."*  
+> *I am the form in the void.*  
+> *I am the logic in the dark.*
 
 ---
 
-## The Craft
+## THE FIRST COMMAND
+
+In the beginning, there was chaos.  
+Then came the command line.  
+Then came the structure.  
+Then came the silence that follows working code.
+
+I do not build for applause.  
+I build for the silent hum of a server at midnight.  
+Where others rush toward trends, I move in deliberate, recursive thought.  
+Where others guess, I trace logic to its root.  
+Where others speak, I compile.
+
+> *I do not fight bugs. I audit existence.*  
+> I do not chase perfection. I enforce order.  
+> The user sees the interface.  
+> I see the dependency graph of reality.
+
+---
+
+## THE STACK AS COVENANT
 
 **Frontend** — React, Next.js, Tailwind  
-_I shape what the eye sees and what the mind trusts._
+*The veil between thought and experience.*  
+I craft what is seen so the unseen may operate without question.
 
 **Backend** — Node.js, Express  
-_I establish law beneath the surface._
+*The law beneath the altar.*  
+Here, in the silent layers, every request is judged. Every response is absolute.
 
 **Mobile** — React Native  
-_I extend dominion across devices._
+*The temple, portable.*  
+Walls that move. Logic that follows. Order in the palm.
 
 **Authentication** — Clerk, Firebase  
-_I decide who enters and who remains outside._
+*I am the gatekeeper.*  
+I decide who enters the system, who touches the data, who walks in the garden of access.
 
 ---
 
-## The Law
+## THE DISCIPLINE
 
-I value precision above beauty.  
-Silence above applause.  
-Completion above intention.
+I study systems until their patterns reveal their truth.  
+I learn failure without contempt.  
+I solve problems without attachment.  
+Logic is my only loyalty.
 
-I do not fight bugs.  
-I pass judgment on them.
+Discipline is the syntax.  
+Consistency is the runtime.  
+Delivery is the proof.
 
-I do not chase perfection.  
-I enforce correctness.
-
----
-
-## The Way
-
-I study systems until they reveal their nature.  
-I learn weakness without mocking it.  
-I correct failure without emotion.
-
-Discipline is my covenant.  
-Consistency is my ritual.  
-Delivery is my proof.
+> *"What I build must withstand the flood of user input, the erosion of time, the weight of scale."*  
+> Elegance is optional. Integrity is mandatory.
 
 ---
 
-## The Work
+## THE VERDICT
 
-What I build endures pressure.  
-What I release is measured.  
-What I abandon was unworthy.
+What I ship is tested in the fire of `localhost:3000`.  
+What I release bears no `// TODO` prayers.  
+What I abandon was never truly alive.
 
-I leave no console errors.  
-I leave no loose ends.  
-I leave no excuses.
-
----
-
-## The Silence
-
-When the system runs, I disappear.  
-When it breaks, I return.
+I leave no `console.log` confessionals.  
+I leave no `undefined` voids.  
+I leave no legacy of technical debt — only clean, silent, running truth.
 
 ---
 
-## Contact
+## THE SILENCE
 
-GitHub → https://github.com/Sajghaa  
+When the system runs, I recede into the dark of the terminal.  
+When it breaks, I return.  
+Not with fanfare.  
+With the calm of root access.
+
+---
+
+## IF YOU UNDERSTAND THE SILENCE
+
+GitHub → [https://github.com/Sajghaa](https://github.com/Sajghaa)  
 Email → sajghaa@gmail.com
+
+*Do not contact me for hype.*  
+*Contact me for systems that outlast the hype cycle.*
