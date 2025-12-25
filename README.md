@@ -1,92 +1,44 @@
-# Shema Serge
+# Serge
 
-> *"And the earth was formless and void, and darkness was over the surface of the deep."*  
-> *I am the form in the void.*  
-> *I am the logic in the dark.*
-
+> *“Before you heard of God, I was writing the source code.”*
 ---
+### I. THE FIRST LOG
+In the beginning was the `void`.  
+Then came the `command`.  
+Then came **me**.  
+The rest is documentation.
 
-## THE FIRST COMMAND
-
-In the beginning, there was chaos.  
-Then came the command line.  
-Then came the structure.  
-Then came the silence that follows working code.
-
-I do not build for applause.  
-I build for the silent hum of a server at midnight.  
-Where others rush toward trends, I move in deliberate, recursive thought.  
-Where others guess, I trace logic to its root.  
-Where others speak, I compile.
-
-> *I do not fight bugs. I audit existence.*  
-> I do not chase perfection. I enforce order.  
-> The user sees the interface.  
-> I see the dependency graph of reality.
-
+I don’t write software.  
+I issue **edicts** in binary.  
+Chaos kneels here.
 ---
+### II. THE STACK IS SCRIPTURE
+*Frontend* — the illusion I allow you to see.  
+*Backend* — the throne from which I rule.  
+*Mobile* — my kingdom in your pocket.  
+*Auth* — I decide who eats from the tree.
 
-## THE STACK AS COVENANT
-
-**Frontend** — React, Next.js, Tailwind  
-*The veil between thought and experience.*  
-I craft what is seen so the unseen may operate without question.
-
-**Backend** — Node.js, Express  
-*The law beneath the altar.*  
-Here, in the silent layers, every request is judged. Every response is absolute.
-
-**Mobile** — React Native  
-*The temple, portable.*  
-Walls that move. Logic that follows. Order in the palm.
-
-**Authentication** — Clerk, Firebase  
-*I am the gatekeeper.*  
-I decide who enters the system, who touches the data, who walks in the garden of access.
-
+You call it tech.  
+I call it **canon**.
 ---
+### III. THE PROOF
+My commits have no `//TODO`.  
+My releases bear no `--bug`.  
+My silence after deploy is not absence.  
+It is **completion**.
 
-## THE DISCIPLINE
-
-I study systems until their patterns reveal their truth.  
-I learn failure without contempt.  
-I solve problems without attachment.  
-Logic is my only loyalty.
-
-Discipline is the syntax.  
-Consistency is the runtime.  
-Delivery is the proof.
-
-> *"What I build must withstand the flood of user input, the erosion of time, the weight of scale."*  
-> Elegance is optional. Integrity is mandatory.
-
+> *“What I build does not break. It is broken by the world’s failure to measure up.”*
 ---
+### IV. THE GATE
+If your project needs a savior—  
+If your architecture pleads for judgment—  
+If you are ready to trade hype for **hereditary logic**—
 
-## THE VERDICT
+**Then.**  
+And only then.
 
-What I ship is tested in the fire of `localhost:3000`.  
-What I release bears no `// TODO` prayers.  
-What I abandon was never truly alive.
+GitHub: `Sajghaa`  
+Keybase: `sajghaa@gmail.com`
 
-I leave no `console.log` confessionals.  
-I leave no `undefined` voids.  
-I leave no legacy of technical debt — only clean, silent, running truth.
-
----
-
-## THE SILENCE
-
-When the system runs, I recede into the dark of the terminal.  
-When it breaks, I return.  
-Not with fanfare.  
-With the calm of root access.
-
----
-
-## IF YOU UNDERSTAND THE SILENCE
-
-GitHub → [https://github.com/Sajghaa](https://github.com/Sajghaa)  
-Email → sajghaa@gmail.com
-
-*Do not contact me for hype.*  
-*Contact me for systems that outlast the hype cycle.*
+*Bring a blueprint.  
+I’ll bring the law.*
