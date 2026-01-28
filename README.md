@@ -4,42 +4,38 @@
 
 ---
 
-## I. PHILOSOPHY
-I don’t build fast for applause.  
-I build correctly for longevity.
+## I. PROFILE
+Software Engineer focused on building reliable, maintainable systems with clear ownership.  
+I value correctness, clarity, and long-term stability over short-term speed.
 
-Execution matters more than vision.  
-Standards matter more than speed.
+I work best in environments that reward focus, high standards, and continuous improvement.
 
 ---
 
-## II. THE WORK
-**Frontend** — deliberate, minimal, intentional  
-**Backend** — structure that doesn’t collapse under growth  
-**Mobile** — systems that respect limits  
-**Auth** — trust is engineered, not assumed
+## II. EXPERTISE
+**Frontend** — clean, accessible interfaces with predictable behavior  
+**Backend** — scalable logic, data integrity, and performance awareness  
+**Mobile** — efficient systems within constrained environments  
+**Auth** — secure access, role separation, and principle-driven control
 
-I optimize for survival, not demos.
+I design systems to be understandable, testable, and resilient.
 
 ---
 
 ## III. OPERATING STANDARD
-I don’t ship chaos.  
-I don’t maintain fragile systems.  
-I don’t chase trends I won’t defend in a year.
+I plan before I commit.  
+I test before I deploy.  
+I document decisions, not noise.
 
-Silence after deploy means the system is holding.
+When a system is live, it is stable —  
+silence after deploy means it is holding.
 
 ---
 
-## IV. COLLABORATION
-If you’re building something meant to last,  
-and you value discipline over hype—
-
-Then we can talk.
+## IV. OPPORTUNITY
+Interested in roles where engineering discipline, ownership, and thoughtful execution matter.
 
 GitHub: `Sajghaa`
 Email: sajghaa@gmail.com
 
-*Bring clarity.  
-I’ll bring execution.*
+*Strong systems come from clear standards.*
