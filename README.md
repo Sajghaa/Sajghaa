@@ -1,44 +1,45 @@
 # Serge
 
-> *“Before you heard of God, I was writing the source code.”*
+> God first. Discipline always.
+
 ---
-### I. THE FIRST LOG
-In the beginning was the `void`.  
-Then came the `command`.  
-Then came **me**.  
-The rest is documentation.
 
-I don’t write software.  
-I issue **edicts** in binary.  
-Chaos kneels here.
+## I. PHILOSOPHY
+I don’t build fast for applause.  
+I build correctly for longevity.
+
+Execution matters more than vision.  
+Standards matter more than speed.
+
 ---
-### II. THE STACK IS SCRIPTURE
-*Frontend* — the illusion I allow you to see.  
-*Backend* — the throne from which I rule.  
-*Mobile* — my kingdom in your pocket.  
-*Auth* — I decide who eats from the tree.
 
-You call it tech.  
-I call it **canon**.
+## II. THE WORK
+**Frontend** — deliberate, minimal, intentional  
+**Backend** — structure that doesn’t collapse under growth  
+**Mobile** — systems that respect limits  
+**Auth** — trust is engineered, not assumed
+
+I optimize for survival, not demos.
+
 ---
-### III. THE PROOF
-My commits have no `//TODO`.  
-My releases bear no `--bug`.  
-My silence after deploy is not absence.  
-It is **completion**.
 
-> *“What I build does not break. It is broken by the world’s failure to measure up.”*
+## III. OPERATING STANDARD
+I don’t ship chaos.  
+I don’t maintain fragile systems.  
+I don’t chase trends I won’t defend in a year.
+
+Silence after deploy means the system is holding.
+
 ---
-### IV. THE GATE
-If your project needs a savior—  
-If your architecture pleads for judgment—  
-If you are ready to trade hype for **hereditary logic**—
 
-**Then.**  
-And only then.
+## IV. COLLABORATION
+If you’re building something meant to last,  
+and you value discipline over hype—
 
-GitHub: `Sajghaa`  
-Keybase: `sajghaa@gmail.com`
+Then we can talk.
 
-*Bring a blueprint.  
-I’ll bring the law.*
+GitHub: `Sajghaa`
+Email: sajghaa@gmail.com
+
+*Bring clarity.  
+I’ll bring execution.*
