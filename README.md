@@ -35,7 +35,7 @@ silence after deploy means it is holding.
 ## IV. OPPORTUNITY
 Interested in roles where engineering discipline, ownership, and thoughtful execution matter.
 
-GitHub: `Sajghaa`
+GitHub: `Sajghaa`<br>
 Email: sajghaa@gmail.com
 
 *Strong systems come from clear standards.*
