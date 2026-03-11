@@ -47,8 +47,11 @@ data integrity, separation of concerns, scalability patterns, and operational st
 </p>
 
 Git · Structured branching · Migration discipline
+
 ---
+
 I design systems to be understandable, testable, and resilient.
+
 ---
 ## III. ENGINEERING STANDARD
 - Plan before commit  
