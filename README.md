@@ -1,9 +1,7 @@
 # Serge
 
 > God first. Discipline always.
-
 ---
-
 ## I. PROFILE
 Software Engineer committed to depth, clarity, and disciplined execution.
 
@@ -12,9 +10,7 @@ I prioritize long-term architectural strength over short-term feature velocity.
 
 I am intentionally developing toward systems architecture by mastering fundamentals:  
 data integrity, separation of concerns, scalability patterns, and operational stability.
-
 ---
-
 ## II. TECH STACK
 
 ### Backend
@@ -44,20 +40,15 @@ data integrity, separation of concerns, scalability patterns, and operational st
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30"/>
 </p>
 ---
-
 ### Workflow
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="25" alt="Git"/>
 </p>
 
 Git · Structured branching · Migration discipline
-
 ---
-
 I design systems to be understandable, testable, and resilient.
-
 ---
-
 ## III. ENGINEERING STANDARD
 - Plan before commit  
 - Test before deploy  
@@ -66,18 +57,14 @@ I design systems to be understandable, testable, and resilient.
 - Optimize for maintainability  
 
 When a system is live, stability is expected — not hoped for.
-
 ---
-
 ## IV. CURRENT DIRECTION
 Deepening knowledge in:
 - Scalable system design  
 - Architecture patterns  
 - Deployment strategy & environment configuration  
 - Long-term maintainability practices  
-
 ---
-
 ## V. OPPORTUNITY
 Interested in environments where ownership, engineering discipline, and thoughtful design are valued.
 
