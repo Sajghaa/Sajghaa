@@ -40,6 +40,7 @@ data integrity, separation of concerns, scalability patterns, and operational st
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30"/>
 </p>
 ---
+
 ### Workflow
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="25" alt="Git"/>
